@@ -1,0 +1,6 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/boss/" nameimageroot="gfx/ui/boss/" bigportraitroot="gfx/ui/stage/">
+	<player name="Lars" skin="character_lars.png" armor="4" bombs="2"  items="164" 
+          nameimage="PlayerName_01_Isaac.png" 
+          portrait="PlayerPortrait_01_Isaac.png" 
+          bigportrait="PlayerPortraitBig_01_Isaac.png" skinColor="-1" />
+</players>

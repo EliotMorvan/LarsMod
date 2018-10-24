@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<active cache="" name="Green Candle" description="There's nothing I can't handle" gfx="GreenCandle.png" />
+</items>
