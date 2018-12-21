@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive cache="" name="The Dreads" description="The skill flows within you." gfx="TheDreads.png" />
+</items>

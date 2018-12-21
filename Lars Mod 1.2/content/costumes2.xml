@@ -1,0 +1,4 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="Lars.anm2" type="none" priority="99"/>
+</costumes>
+
